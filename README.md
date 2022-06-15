@@ -1,16 +1,22 @@
-### Hi there 👋
+## David Chaves Ferreira
 
-<!--
-**DavidChavess/DavidChavess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é David, sou de Guariba-SP. 
+<br>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec Taquaritinga. 
+Trabalho como desenvolvedor backend. 
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/davidc-f/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+<div>
+  
+## ⚡ Technologies
+- **Backend: Java, Kotlin, NodeJS**
+- **Frameworks: Spring Boot, Express**
+- **Databases: Mysql, PostgresSQL, Sql_Server, MongoDB**
+- **AWS Services: S3, EC2, DynamoDB, Lambda**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=DavidChavess&hide=["issues"]&show_icons=true)
+
+
